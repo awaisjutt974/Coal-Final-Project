@@ -1,8 +1,8 @@
 # Coal-Final-Project
 This repo contains a program to controlling Character LCD using Smartphone.
 <h1>Libraries to be installed are:
-<p>
-  m328pdef.inc:
+
+<h5>  m328pdef.inc:
     
 This library encompasses definitions for the ATmega328P microcontroller, offering symbolic
 names for registers to improve the clarity and readability of the code.
@@ -11,6 +11,7 @@ names for registers to improve the clarity and readability of the code.
      
 This library includes functions for implementing time delays within a program, crucial for
 maintaining precise timing during various operations.
+
   UART.inc:
     
 The UART library simplifies serial communication by providing functions for the initializa-
